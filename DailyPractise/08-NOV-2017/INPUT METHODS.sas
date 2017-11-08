@@ -101,7 +101,7 @@ datalines;
 1078 Ashley red    127 118 
 1078 Ashley red    127 118 
 1221 Jim    yellow 220   . 
-; 
+
 Run;
 Data raghav.redteam; 
 Infile datalines;
